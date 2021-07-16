@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Colors.white,
       ),
       home: RandomWords(),
+      debugShowCheckedModeBanner: false,
       // home: Scaffold(
       //   appBar: AppBar(
       //     title: const Text('Welcome to Flutter'),
